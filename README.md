@@ -12,5 +12,5 @@ If you use this code, please cite: https://doi.org/10.1007/s40192-024-00389-9
 Mathematical Details of Trigonometric Interpolation: https://en.wikipedia.org/wiki/Trigonometric_interpolation
 Implementation Example: https://doi.org/10.1007/s40192-024-00389-9
 
-Created by Pranoy Ray
+Created by <a href = "https://pranoy-ray.github.io/">Pranoy Ray</a> <br>
 Contact: pranoy@gatech.edu
