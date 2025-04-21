@@ -1,6 +1,6 @@
 # cubicTI
 
-This file contains the code for trigonometric interpolation for orthogonal cubic volumes.
+This file (cubicTI.py) contains the code for trigonometric interpolation for orthogonal cubic volumes.
 
 Fast visualizations of your 3D data can be performed by using either:
 a) plotvista() : Plots any 3D numpy array as a cube, with a colorbar/heatmap
